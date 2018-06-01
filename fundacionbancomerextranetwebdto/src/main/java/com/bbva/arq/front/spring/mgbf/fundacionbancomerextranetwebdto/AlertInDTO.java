@@ -1,7 +1,7 @@
 package com.bbva.arq.front.spring.mgbf.fundacionbancomerextranetwebdto;
 
 /**
- * Class AlertInDTO.
+ * Class AlertInDTO--Git1.
  * Contains the input values for the service MGBFTK01.
  * 
  * @author Diego Espinoza.
