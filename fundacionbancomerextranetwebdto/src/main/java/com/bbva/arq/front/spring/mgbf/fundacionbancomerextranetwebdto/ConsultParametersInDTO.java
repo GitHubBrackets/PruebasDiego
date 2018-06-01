@@ -1,11 +1,11 @@
 package com.bbva.arq.front.spring.mgbf.fundacionbancomerextranetwebdto;
 
 /**
- * Class ConsultParametersInDTO
- * Contains the input values for the service MGBFTP01
+ * Class ConsultParametersInDTO.
+ * Contains the input values for the service MGBFTP01.
  * 
- * @author Diego Espinoza
- * @version 27 november 2017
+ * @author Diego Espinoza.
+ * @version 27 november 2017.
  */
 public class ConsultParametersInDTO {
 
