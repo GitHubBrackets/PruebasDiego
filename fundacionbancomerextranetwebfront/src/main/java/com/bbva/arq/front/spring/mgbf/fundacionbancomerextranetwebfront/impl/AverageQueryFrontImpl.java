@@ -22,10 +22,10 @@ import com.bbva.arq.front.spring.mgbf.fundacionbancomerextranetwebfront.AverageQ
 /**
  * Class AverageQueryFrontImpl implements the AverageQueryFront interface
  * Contains the implementations of the method getAverageQuery to consume the
- * service MGBFTC03 This class contains the controller for service MGBFTC03
+ * service MGBFTC03 This class contains the controller for service MGBFTC03.
  * 
- * @author Diego Espinoza
- * @version 28 november 2017
+ * @author Diego Espinoza.
+ * @version 28 november 2017.
  */
 @RequestMapping("/average")
 @Controller

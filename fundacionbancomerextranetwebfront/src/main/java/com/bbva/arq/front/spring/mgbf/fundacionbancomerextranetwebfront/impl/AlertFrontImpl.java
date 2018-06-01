@@ -22,10 +22,10 @@ import com.bbva.arq.front.spring.mgbf.fundacionbancomerextranetwebfront.AlertFro
 /**
  * Class AlertFrontImpl implements the AlertFront interface Contains the
  * implementations of the method alerts to consume the service MGBFTK01 This
- * class contains the controller for service MGBFTK01
+ * class contains the controller for service MGBFTK01.
  * 
- * @author Diego Espinoza
- * @version 28 november 2017
+ * @author Diego Espinoza.
+ * @version 28 november 2017.
  */
 @RequestMapping("/aler")
 @Controller
