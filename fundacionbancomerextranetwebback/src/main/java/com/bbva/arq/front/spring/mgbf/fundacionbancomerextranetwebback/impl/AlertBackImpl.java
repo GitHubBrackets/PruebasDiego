@@ -18,7 +18,7 @@ import com.bbva.arq.front.spring.mgbf.fundacionbancomerextranetwebrestclient.ser
 
 
 /**
- * Class AlertBackImpl implements the AlertBack interface Contains tho
+ * Class AlertBackImpl implements the AlertBack interface Contains thi
  * implementations of the method alertArmed to consume the service MGBFTK01
  * 
  * @author Diego Espinoza
